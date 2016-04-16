@@ -114,6 +114,8 @@
 #     end
 #
 require "hello"
+require 'ruby-debug'
+
 
 describe "the hello function" do
   it "says hello" do
